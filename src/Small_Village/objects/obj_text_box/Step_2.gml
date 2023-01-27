@@ -1,0 +1,1 @@
+x = obj_camera.x + obj_camera.view_width - (sprite_width + 50)

@@ -1,0 +1,1 @@
+message1 = "Welcome to Mcdonalds! What would you like to order? Press 1 for burger, Press 2 for nuggets, Press 3 for fries"
